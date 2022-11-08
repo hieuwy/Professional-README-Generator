@@ -4,7 +4,7 @@
 
 This is a command line interface application which creates a README file for your application repositories. This will allow people to understand how your app works, how to install it, and how other developers can contribute to your project. This README.md is being created via this system.
 
-Link to Video Demo (https://drive.google.com/file/d/1ULQe46ejEYeantmE0Iw2neev11DfODi8/view?usp=share_link)
+[Link to Video Demo](https://drive.google.com/file/d/1ULQe46ejEYeantmE0Iw2neev11DfODi8/view?usp=share_link)
 
 ![badge](https://img.shields.io/badge/license-MITLicense-brightorange)
 
